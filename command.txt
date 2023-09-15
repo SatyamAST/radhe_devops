@@ -1,0 +1,6 @@
+git init //creating repository
+git status //checking status
+git log //checking every changes 
+git log --oneline 
+git log --oneline --pretty
+git 
