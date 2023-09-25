@@ -3,4 +3,5 @@ git status //checking status
 git log //checking every changes 
 git log --oneline 
 git log --oneline --pretty
-git 
+git log --p
+git config global user.name 
