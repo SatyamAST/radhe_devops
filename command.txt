@@ -5,3 +5,6 @@ git log --oneline
 git log --oneline --pretty
 git log --p
 git config global user.name 
+git pull
+git remote -v
+git push
